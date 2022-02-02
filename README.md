@@ -30,5 +30,5 @@ I would recommend these sports if someone asks me to.
 
 #Quotes
 
->Gratitude is not only the greatest of virtues but the parent of all others
-<i> Marcus Tullius Cicero </i>
+>Gratitude is not only the greatest of virtues but the parent of all others.
+<i> *-Marcus Tullius Cicero* </i>
