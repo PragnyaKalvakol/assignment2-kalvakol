@@ -18,9 +18,13 @@ I like playing sports such as batminton, basket ball, table tennis, cricket.
 I would recommend these sports if someone asks me to.
 
 -------------------------------------
-|Name of the sport| Location | Price|
-|Batminton        |  Park    | 50$  |
-|Basket ball      |Rec center| 30$  |
-|Table tennis     |Rec center| 40$  |
-|Cricket          |Ground    | 70$  |
+
+
+|Name of the sport  | Location | Price|
+|Batminton          |  Park    | 50$  |
+|Basket ball        |Rec center| 30$  |
+|Table tennis       |Rec center| 40$  |
+|Cricket            |Ground    | 70$  |
+
+
 -------------------------------------
