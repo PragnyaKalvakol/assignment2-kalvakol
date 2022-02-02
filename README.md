@@ -1,7 +1,9 @@
 # assignment2-kalvakol
 # PRAGNYA #
 #### CREAM STONE
+
 Cream Stone is one of the most popular ice cream parlours Chain in India. ***Cream Stone Menu is filled with delicious ice cream***. It's made up of homemade waffles bowls and cones with different fusion falvors.
+
 --------
 
 # Way to my favourite place
@@ -10,6 +12,13 @@ Cream Stone is one of the most popular ice cream parlours Chain in India. ***Cre
 2. Go to Hyderabad
 3. Then go to chaitanyapuri
 4. There you find a place called creamstone
+
+# Some food items
+* Biryani
+* Pasta
+* Thickshake
+* French fries
+* Pastery
 
 [Aboutme](https://github.com/PragnyaKalvakol/assignment2-kalvakol/blob/main/AboutMe.md)
 -------
