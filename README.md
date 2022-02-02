@@ -43,6 +43,7 @@ In number theory, integer factorization is the decomposition of a composite numb
 When the numbers are sufficiently large, no efficient, non-quantum integer factorization algorithm is known.
 
 [More information on Number of divisors / sum of divisors](https://en.wikipedia.org/wiki/Integer_factorization)
+
 ```
 vector<long long> trial_division1(long long n) {
     vector<long long> factorization;
