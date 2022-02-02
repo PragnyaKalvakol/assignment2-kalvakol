@@ -31,4 +31,9 @@ I would recommend these sports if someone asks me to.
 #Quotes
 
 >Gratitude is not only the greatest of virtues but the parent of all others.
-<i> *-Marcus Tullius Cicero* </i>
+ *- Marcus Tullius Cicero* 
+
+ >Follow your bliss and the universe will open doors where there were only walls.
+ *- Joseph Campbell*
+
+ 
