@@ -28,7 +28,7 @@ I would recommend these sports if someone asks me to.
 
 --------------------------------------------------
 
-#Quotes
+# Quotes
 
 >Gratitude is not only the greatest of virtues but the parent of all others.
  *- Marcus Tullius Cicero* 
@@ -36,4 +36,9 @@ I would recommend these sports if someone asks me to.
  >Follow your bliss and the universe will open doors where there were only walls.
  *- Joseph Campbell*
 
- 
+ -------------------------------------------------------------
+ # Programming
+
+ Programming is giving a set of instructions to a computer to execute.
+ It is the mental process of thinking up instructions to give to a machine (like a computer).
+
