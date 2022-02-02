@@ -25,3 +25,10 @@ I would recommend these sports if someone asks me to.
 |Table tennis       |Rec center| 40$  |
 |Cricket            |Ground    | 70$  |
 -------------------------------------
+
+--------------------------------------------------
+
+#Quotes
+
+>Gratitude is not only the greatest of virtues but the parent of all others
+<i> Marcus Tullius Cicero </i>
