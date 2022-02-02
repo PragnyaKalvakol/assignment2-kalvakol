@@ -37,8 +37,24 @@ I would recommend these sports if someone asks me to.
  *- Joseph Campbell*
 
  -------------------------------------------------------------
- # Programming
+ # Algebra
 
- Programming is giving a set of instructions to a computer to execute.
- It is the mental process of thinking up instructions to give to a machine (like a computer).
+In number theory, integer factorization is the decomposition of a composite number into a product of smaller integers. If these factors are further restricted to prime numbers, the process is called prime factorization.
+When the numbers are sufficiently large, no efficient, non-quantum integer factorization algorithm is known.
 
+[More information on Number of divisors / sum of divisors](https://en.wikipedia.org/wiki/Integer_factorization)
+
+>vector<long long> trial_division1(long long n) {
+    vector<long long> factorization;
+    for (long long d = 2; d * d <= n; d++) {
+        while (n % d == 0) {
+            factorization.push_back(d);
+            n /= d;
+        }
+    }
+    if (n > 1)
+        factorization.push_back(n);
+    return factorization;
+}
+
+[More details](https://cp-algorithms.com/algebra/factorization.html)
