@@ -11,7 +11,7 @@ Cream Stone is one of the most popular ice cream parlours Chain in India. ***Cre
 3. Then go to chaitanyapuri
 4. There you find a place called creamstone
 
-[me](https://github.com/PragnyaKalvakol/assignment2-kalvakol/blob/main/AboutMe.md)
+[Aboutme](https://github.com/PragnyaKalvakol/assignment2-kalvakol/blob/main/AboutMe.md)
 -------
 # Sports
 I like playing sports such as batminton, basket ball, table tennis, cricket.
